@@ -1,0 +1,538 @@
+{
+  "media": [
+    {
+      "path": "/media/trailers/storm.mp4",
+      "type": "video",
+      "tags": [
+        "horror",
+        "thriller",
+        "drama",
+        "mystery"
+      ]
+    },
+    {
+      "path": "/media/trailers/fire.mp4",
+      "type": "video",
+      "tags": [
+        "action",
+        "war",
+        "thriller"
+      ]
+    },
+    {
+      "path": "/media/trailers/space.mp4",
+      "type": "video",
+      "tags": [
+        "science fiction",
+        "sci-fi",
+        "adventure"
+      ]
+    },
+    {
+      "path": "/media/trailers/neon.mp4",
+      "type": "video",
+      "tags": [
+        "science fiction",
+        "sci-fi",
+        "crime",
+        "action"
+      ]
+    },
+    {
+      "path": "/media/trailers/mountains.mp4",
+      "type": "video",
+      "tags": [
+        "fantasy",
+        "adventure",
+        "drama"
+      ]
+    },
+    {
+      "path": "/media/trailers/ocean.mp4",
+      "type": "video",
+      "tags": [
+        "adventure",
+        "drama",
+        "mystery"
+      ]
+    },
+    {
+      "path": "/media/trailers/road.mp4",
+      "type": "video",
+      "tags": [
+        "action",
+        "crime",
+        "drama",
+        "modern"
+      ]
+    },
+    {
+      "path": "/media/trailers/clouds.mp4",
+      "type": "video",
+      "tags": [
+        "fantasy",
+        "drama",
+        "romance"
+      ]
+    },
+    {
+      "path": "/media/trailers/tunnel.mp4",
+      "type": "video",
+      "tags": [
+        "crime",
+        "thriller",
+        "horror",
+        "modern"
+      ]
+    },
+    {
+      "path": "/media/trailers/rain-window.mp4",
+      "type": "video",
+      "tags": [
+        "drama",
+        "romance",
+        "mystery"
+      ]
+    },
+    {
+      "path": "/media/trailers/desert.mp4",
+      "type": "video",
+      "tags": [
+        "adventure",
+        "action",
+        "drama"
+      ]
+    },
+    {
+      "path": "/media/trailers/fog.mp4",
+      "type": "video",
+      "tags": [
+        "horror",
+        "mystery",
+        "thriller"
+      ]
+    },
+    {
+      "path": "/media/trailers/industrial.mp4",
+      "type": "video",
+      "tags": [
+        "action",
+        "crime",
+        "science fiction",
+        "modern"
+      ]
+    },
+    {
+      "path": "/media/trailers/sunset.mp4",
+      "type": "video",
+      "tags": [
+        "romance",
+        "drama",
+        "adventure"
+      ]
+    }
+  ],
+  "audio": [
+    {
+      "path": "/media/audio/action.mp3",
+      "tags": [
+        "action",
+        "crime",
+        "war",
+        "thriller"
+      ]
+    },
+    {
+      "path": "/media/audio/dark.mp3",
+      "tags": [
+        "horror",
+        "thriller",
+        "mystery"
+      ]
+    },
+    {
+      "path": "/media/audio/epic.mp3",
+      "tags": [
+        "fantasy",
+        "adventure"
+      ]
+    },
+    {
+      "path": "/media/audio/scifi.mp3",
+      "tags": [
+        "science fiction",
+        "sci-fi"
+      ]
+    },
+    {
+      "path": "/media/audio/drama.mp3",
+      "tags": [
+        "drama",
+        "romance"
+      ]
+    },
+    {
+      "path": "/media/audio/cinematic.mp3",
+      "tags": [
+        "modern",
+        "adventure",
+        "drama",
+        "thriller"
+      ]
+    }
+  ],
+  "profiles": {
+    "Action": {
+      "mediaTags": [
+        "action",
+        "crime",
+        "war",
+        "modern"
+      ],
+      "audioTags": [
+        "action",
+        "crime",
+        "war",
+        "thriller"
+      ],
+      "transitions": [
+        "flash",
+        "glitch",
+        "zoom",
+        "wipe-left"
+      ],
+      "motions": [
+        "push-in",
+        "handheld",
+        "pan-right",
+        "orbit"
+      ],
+      "filters": [
+        "high-contrast",
+        "warm",
+        "cinematic"
+      ],
+      "titleStyles": [
+        "impact",
+        "tracking",
+        "slide"
+      ]
+    },
+    "Horror": {
+      "mediaTags": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "audioTags": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "transitions": [
+        "flash",
+        "glitch",
+        "blur",
+        "fade"
+      ],
+      "motions": [
+        "push-in",
+        "handheld",
+        "pull-out"
+      ],
+      "filters": [
+        "cold",
+        "noir",
+        "desaturated"
+      ],
+      "titleStyles": [
+        "whisper",
+        "tracking",
+        "impact"
+      ]
+    },
+    "Fantasy": {
+      "mediaTags": [
+        "fantasy",
+        "adventure",
+        "mystery"
+      ],
+      "audioTags": [
+        "fantasy",
+        "adventure"
+      ],
+      "transitions": [
+        "fade",
+        "zoom",
+        "blur",
+        "wipe-right"
+      ],
+      "motions": [
+        "push-in",
+        "pan-up",
+        "orbit",
+        "pull-out"
+      ],
+      "filters": [
+        "cinematic",
+        "warm",
+        "high-contrast"
+      ],
+      "titleStyles": [
+        "rise",
+        "tracking",
+        "impact"
+      ]
+    },
+    "Science Fiction": {
+      "mediaTags": [
+        "science fiction",
+        "sci-fi",
+        "modern"
+      ],
+      "audioTags": [
+        "science fiction",
+        "sci-fi"
+      ],
+      "transitions": [
+        "glitch",
+        "flash",
+        "zoom",
+        "wipe-left"
+      ],
+      "motions": [
+        "push-in",
+        "orbit",
+        "pan-right",
+        "handheld"
+      ],
+      "filters": [
+        "neon",
+        "cold",
+        "high-contrast"
+      ],
+      "titleStyles": [
+        "neon",
+        "tracking",
+        "impact"
+      ]
+    },
+    "Drama": {
+      "mediaTags": [
+        "drama",
+        "romance",
+        "mystery"
+      ],
+      "audioTags": [
+        "drama",
+        "romance"
+      ],
+      "transitions": [
+        "fade",
+        "blur",
+        "wipe-right"
+      ],
+      "motions": [
+        "pull-out",
+        "pan-left",
+        "pan-up",
+        "push-in"
+      ],
+      "filters": [
+        "warm",
+        "desaturated",
+        "cinematic"
+      ],
+      "titleStyles": [
+        "whisper",
+        "rise",
+        "tracking"
+      ]
+    },
+    "Боевик": {
+      "mediaTags": [
+        "action",
+        "crime",
+        "war",
+        "modern"
+      ],
+      "audioTags": [
+        "action",
+        "crime",
+        "war",
+        "thriller"
+      ],
+      "transitions": [
+        "flash",
+        "glitch",
+        "zoom",
+        "wipe-left"
+      ],
+      "motions": [
+        "push-in",
+        "handheld",
+        "pan-right",
+        "orbit"
+      ],
+      "filters": [
+        "high-contrast",
+        "warm",
+        "cinematic"
+      ],
+      "titleStyles": [
+        "impact",
+        "tracking",
+        "slide"
+      ]
+    },
+    "Ужасы": {
+      "mediaTags": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "audioTags": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "transitions": [
+        "flash",
+        "glitch",
+        "blur",
+        "fade"
+      ],
+      "motions": [
+        "push-in",
+        "handheld",
+        "pull-out"
+      ],
+      "filters": [
+        "cold",
+        "noir",
+        "desaturated"
+      ],
+      "titleStyles": [
+        "whisper",
+        "tracking",
+        "impact"
+      ]
+    },
+    "Фантастика": {
+      "mediaTags": [
+        "science fiction",
+        "sci-fi",
+        "modern"
+      ],
+      "audioTags": [
+        "science fiction",
+        "sci-fi"
+      ],
+      "transitions": [
+        "glitch",
+        "flash",
+        "zoom",
+        "wipe-left"
+      ],
+      "motions": [
+        "push-in",
+        "orbit",
+        "pan-right",
+        "handheld"
+      ],
+      "filters": [
+        "neon",
+        "cold",
+        "high-contrast"
+      ],
+      "titleStyles": [
+        "neon",
+        "tracking",
+        "impact"
+      ]
+    },
+    "Драма": {
+      "mediaTags": [
+        "drama",
+        "romance",
+        "mystery"
+      ],
+      "audioTags": [
+        "drama",
+        "romance"
+      ],
+      "transitions": [
+        "fade",
+        "blur",
+        "wipe-right"
+      ],
+      "motions": [
+        "pull-out",
+        "pan-left",
+        "pan-up",
+        "push-in"
+      ],
+      "filters": [
+        "warm",
+        "desaturated",
+        "cinematic"
+      ],
+      "titleStyles": [
+        "whisper",
+        "rise",
+        "tracking"
+      ]
+    },
+    "default": {
+      "mediaTags": [
+        "modern",
+        "drama",
+        "adventure",
+        "mystery",
+        "action"
+      ],
+      "audioTags": [
+        "modern",
+        "drama",
+        "adventure",
+        "thriller"
+      ],
+      "transitions": [
+        "fade",
+        "flash",
+        "zoom",
+        "blur",
+        "glitch",
+        "wipe-left",
+        "wipe-right"
+      ],
+      "motions": [
+        "push-in",
+        "pull-out",
+        "pan-left",
+        "pan-right",
+        "pan-up",
+        "pan-down",
+        "handheld",
+        "orbit"
+      ],
+      "filters": [
+        "cinematic",
+        "cold",
+        "warm",
+        "noir",
+        "neon",
+        "desaturated",
+        "high-contrast"
+      ],
+      "titleStyles": [
+        "tracking",
+        "impact",
+        "rise",
+        "slide",
+        "whisper",
+        "neon"
+      ]
+    }
+  }
+}

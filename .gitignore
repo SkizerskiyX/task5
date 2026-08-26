@@ -1,0 +1,150 @@
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Debug / Release
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Visual Studio
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# JetBrains Rider / ReSharper
+.idea/
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Keep NuGet build files if needed
+!**/packages/build/
+!**/packages/repositories.config
+
+# Test results
+TestResults/
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+coverage/
+coverage.*
+coverage.json
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# ASP.NET Core generated files
+wwwroot/dist/
+wwwroot/build/
+
+# Publish output
+publish/
+Publish/
+*.Publish.xml
+*.pubxml.user
+
+# Local / environment configuration
+.env
+.env.*
+!.env.example
+
+# Local secrets/config
+appsettings.Local.json
+appsettings.Development.local.json
+appsettings.*.Local.json
+
+# User secrets / sensitive files
+secrets.json
+*.secrets.json
+
+# Certificates / keys
+*.pfx
+*.p12
+*.key
+*.pem
+
+# SQLite local databases
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+*~
+~$*
+
+# OS generated
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Node.js (if frontend/assets are used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Frontend build/cache
+dist/
+.cache/
+.parcel-cache/
+.vite/
+
+# Docker overrides / local config
+docker-compose.override.yml
+
+# Entity Framework temporary/local artifacts
+*.mdf
+*.ldf
+
+# SonarQube
+.sonarqube/
+
+# StyleCop
+StyleCopReport.xml
+
+# NCrunch
+_NCrunch_*
+*.ncrunch*
+.*crunch*.local.xml
+
+# Azure / deployment artifacts
+*.azurePubxml
+*.pubxml.user
+
+# Generated files
+Generated/
+generated/
+
+# Backup files
+*.orig
+*.rej
